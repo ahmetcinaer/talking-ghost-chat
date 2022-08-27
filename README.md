@@ -1,4 +1,4 @@
-# ![image](https://user-images.githubusercontent.com/44680374/187025095-34026c64-7088-4ee4-a1df-63d332733b54.png) Talking Ghost Chat Input 
+# 👻 Talking Ghost Chat Input 
 ## Talking Ghost Chat Input - HTML, CSS & JAVASCRIPT
 
 
